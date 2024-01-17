@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcochitu&label=Profile%20views&color=0e75b6&style=flat" alt="marcochitu" /> </p>
 
-- 🌱 I’m currently learning **React, NodeJS**
+- 🌱 I’m currently learning **React, Angular, TypeScript and NodeJS**
 
 - 📫 How to reach me **marcochitu@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/marcochitu](https://www.linkedin.com/in/marcochitu)
 
-- ⚡ Fun fact **I am spontaneous**
+- ⚡ Fun fact **I like to put in practice and help others**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
